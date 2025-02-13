@@ -1,4 +1,4 @@
 <div>
   <span>Promramming language </span>
-  ![Python](./python-svgrepo-com.svg)
+  <img src='./python-svgrepo-com.svg' />
 </div>
