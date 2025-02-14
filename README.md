@@ -53,3 +53,8 @@
     <span>Tailwind</span>
   </div>
   <br/>
+
+  <div style='padding: 2px; display: flex; justify-content: center;'>
+    <img src='./api-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <span>Django Rest Framework (DRF)</span>
+  </div>
