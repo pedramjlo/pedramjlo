@@ -58,3 +58,17 @@
     <img src='./api-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Django Rest Framework (DRF)</span>
   </div>
+
+  <br/>
+
+  <div style='padding: 2px; display: flex; justify-content: center;'>
+    <img src='./html-5-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <span>HTML/HTML5</span>
+  </div>
+
+  <br/>
+
+  <div style='padding: 2px; display: flex; justify-content: center;'>
+    <img src='./css3-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <span>CSS</span>
+  </div>
