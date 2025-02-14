@@ -1,5 +1,5 @@
 # Programming languages
-<div style='display: grid; gap:2rem;'>
+<div style='display: flex'>
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./python-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Python</span>
