@@ -12,7 +12,7 @@
 
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./javascript-svgrepo-com.svg' style='width: 24px; height: 24px' />
-    <span>JavaScript</span>
+    <span>ReactJS</span>
   </div>
 
   
@@ -22,6 +22,6 @@
 # Technologies
 
 <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
-    <img src='./django-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <img src='./react-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Django</span>
   </div>
