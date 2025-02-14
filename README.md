@@ -29,19 +29,27 @@
   </div>
   <br/>
 
-  <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
+  <div style='padding: 2px; display: flex; justify-content: center;'>
     <img src='./react-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>ReactJS</span>
   </div>
   <br/>
 
-  <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
+  <div style='padding: 2px; display: flex; justify-content: center; '>
     <img src='./excel-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Excel</span>
   </div>
   <br/>
 
-  <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
+  <div style='padding: 2px; display: flex; justify-content: center;'>
     <img src='./linux-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Linux</span>
   </div>
+
+  <br/>
+
+  <div style='padding: 2px; display: flex; justify-content: center;'>
+    <img src='./tailwind-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <span>Tailwind</span>
+  </div>
+  <br/>
