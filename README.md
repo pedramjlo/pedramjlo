@@ -4,12 +4,12 @@
     <img src='./python-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Python</span>
   </div>
-
+  <br/>
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./plsql-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>SQL</span>
   </div>
-
+  <br/>
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./javascript-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Pandas(Python)</span>
@@ -27,16 +27,19 @@
     <img src='./django-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Django</span>
   </div>
+  <br/>
 
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./react-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>ReactJS</span>
   </div>
+  <br/>
 
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./excel-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Excel</span>
   </div>
+  <br/>
 
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
     <img src='./linux-svgrepo-com.svg' style='width: 24px; height: 24px' />
