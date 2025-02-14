@@ -11,7 +11,7 @@
   </div>
   <br/>
   <div style='padding: 2px; display: flex; justify-content: center; gap: 2px;'>
-    <img src='./figma-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <img src='./javascript-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>JavaScript</span>
   </div>
 
@@ -76,6 +76,6 @@
   <br/>
 
   <div style='padding: 2px; display: flex; justify-content: center;'>
-    <img src='./css3-svgrepo-com.svg' style='width: 24px; height: 24px' />
+    <img src='./figma-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Figma</span>
   </div>
