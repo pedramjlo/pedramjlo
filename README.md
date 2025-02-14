@@ -63,7 +63,7 @@
 
   <div style='padding: 2px; display: flex; justify-content: center;'>
     <img src='./html-5-svgrepo-com.svg' style='width: 24px; height: 24px' />
-    <span>HTML/HTML5</span>
+    <span>HTML/HTML5/HTMX</span>
   </div>
 
   <br/>
