@@ -79,3 +79,7 @@
     <img src='./figma-svgrepo-com.svg' style='width: 24px; height: 24px' />
     <span>Figma</span>
   </div>
+
+
+# Data Analysis Projects
+1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data using Python and Pandas
