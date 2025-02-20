@@ -85,7 +85,8 @@
 1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data using Python and Pandas
 
 # Back-end Projects
-1. [Online Shop](https://github.com/pedramjlo/Kaschik_store_Django): Back-end app for an online shop made with Django v5.0 
+1. [Online Shop](https://github.com/pedramjlo/Kaschik_store_Django): Back-end app for an online shop made with Django v5.0
+2. [Flashcard Game](https://github.com/pedramjlo/django-flashcards): Interactive flashcards using server-side logic + template system
 
 
 # Front-end Projects
