@@ -87,4 +87,4 @@
 
 
 # Front-end Projects
-1. [Digital SPA Meny](https://github.com/pedramjlo/Daei-Ali-ORG): Static SPA digital restaurant menu written with ReactJS and Bootstrao
+1. [Digital Single Page App Restaurant Menu](https://github.com/pedramjlo/Daei-Ali-ORG): Static SPA digital restaurant menu written with ReactJS and Bootstrao
