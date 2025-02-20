@@ -83,3 +83,8 @@
 
 # Data Analysis Projects
 1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data using Python and Pandas
+
+
+
+# Front-end Projects
+1. [Digital SPA Meny](https://github.com/pedramjlo/Daei-Ali-ORG): Static SPA digital restaurant menu written with ReactJS and Bootstrao
