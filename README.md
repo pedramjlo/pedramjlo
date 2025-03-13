@@ -82,8 +82,9 @@
 
 
 # Data Analysis Projects
-1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data using Python and Pandas
-2. [Car Sales Analysis](https://github.com/pedramjlo/car_sales_analysis): Car sales anlaysis with Python and Pandas
+1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data (Python, Pandas)
+2. [Car Sales Analysis](https://github.com/pedramjlo/car_sales_analysis): Car sales anlaysis (Python, Pandas)
+3. [UAE Cars Analysis](https://github.com/pedramjlo/uae_car_sales_analysis): Analysis of used cars in the UAE from 2004 to 2024 (Python, Pandas, SQL)
 
 # Back-end Projects
 1. [Online Shop](https://github.com/pedramjlo/Kaschik_store_Django): Back-end app for an online shop made with Django v5.0
