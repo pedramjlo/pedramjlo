@@ -81,7 +81,7 @@
   </div>
 
 
-# Data Analysis Projects
+# Data-Related Projects
 1. [Supermarket Sales](https://github.com/pedramjlo/supermarket-analysis-1): Analysis of supermarket sales data (Python, Pandas)
 2. [Car Sales Analysis](https://github.com/pedramjlo/car_sales_analysis): Car sales anlaysis (Python, Pandas)
 3. [UAE Cars Analysis](https://github.com/pedramjlo/uae_cars_analysis): Analysis of used cars in the UAE from 2004 to 2024 (Python, Pandas, SQL، SQLITE3)
