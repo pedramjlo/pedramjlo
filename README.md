@@ -88,6 +88,7 @@
 2. [Car Sales Analysis](https://github.com/pedramjlo/car_sales_analysis): Car sales anlaysis (Python, Pandas)
 3. [UAE Cars Analysis](https://github.com/pedramjlo/uae_cars_analysis): Analysis of used cars in the UAE 2004-2024 (Python, Pandas, SQL، SQLITE3)
 4. [Crypto Price Extractor](https://github.com/pedramjlo/crypto-price-data): Extract crypto data from Binance API and load to PostgreSQL (ETL - Python, Pandas, PostgreSQL, SQL)
+5. [UAE properties Analysis](https://github.com/pedramjlo/uae_properties_analysis): Automatic data cleaning, EDA, and PostgreSQL database creator + loader pipeline
 
 # Back-end Projects
 1. [Online Shop](https://github.com/pedramjlo/Kaschik_store_Django): Back-end app for an online shop made with Django v5.0
